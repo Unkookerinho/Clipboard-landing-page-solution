@@ -9,4 +9,4 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-Us9Mx7eTf2
-- Live Site URL: https://roaring-moxie-3b29cf.netlify.app
+- Live Site URL: https://unkookerinho-clipboard-landing-page.netlify.app
