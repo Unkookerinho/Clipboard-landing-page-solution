@@ -8,5 +8,5 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-Us9Mx7eTf2
+- Live Site URL: https://unkookerinho.github.io/Clipboard-landing-page-solution/
