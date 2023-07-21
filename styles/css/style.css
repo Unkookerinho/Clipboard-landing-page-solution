@@ -63,8 +63,8 @@ main {
 .attribution {
   font-size: 11px;
   text-align: center;
+  line-height: 1rem;
 }
-
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
@@ -148,7 +148,7 @@ main {
 }
 
 header {
-  background: url(/images/bg-header-mobile.png) no-repeat;
+  background: url(/images/bg-header-desktop.png) no-repeat;
   background-size: contain;
   width: 100%;
 }
@@ -334,7 +334,6 @@ footer .social-media svg:hover path {
     -ms-flex-pack: distribute;
         justify-content: space-around;
     padding-top: 1.75rem;
-    padding-bottom: 0;
     width: 100%;
   }
 }
