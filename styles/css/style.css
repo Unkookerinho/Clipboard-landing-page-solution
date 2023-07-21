@@ -148,7 +148,7 @@ main {
 }
 
 header {
-  background: url(/images/bg-header-desktop.png) no-repeat;
+  background: url(/images/bg-header-mobile.png) no-repeat;
   background-size: contain;
   width: 100%;
 }
@@ -158,7 +158,8 @@ header .website-logo {
 
 @media (min-width: 635px) {
   header {
-    background-image: url(/images/bg-header-desktop.png);
+    background: url(/images/bg-header-desktop.png) no-repeat;
+    background-size: contain;
   }
 }
 .section {
