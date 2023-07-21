@@ -1,0 +1,53 @@
+.section {
+    gap: 3rem;
+
+    &-about {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+}
+
+.about-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+
+    .icon {
+        margin-bottom: 3rem;
+    }
+
+    .brand-logo {
+        width: 8rem;
+    }
+}
+
+
+.snippets {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+
+@media (min-width: 1024px) {
+    .desktop-start {
+        align-items: flex-start;
+        text-align: start;
+        width: 22rem;
+    }
+
+    .desktop-row {
+        flex-direction: row;
+    }
+
+    .snippets {
+        flex-direction: row;
+        gap: 7rem;
+        margin-left: -10rem;
+    }
+}
