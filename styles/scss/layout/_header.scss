@@ -1,5 +1,5 @@
 header {
-    background: url(/images/bg-header-desktop.png) no-repeat;
+    background: url(images/bg-header-desktop.png) no-repeat;
     background-size: contain;
 
     width: 100%;
@@ -11,6 +11,6 @@ header {
 
 @media (min-width:635px) {
     header {
-        background-image: url(/images/bg-header-desktop.png);
+        background-image: url(images/bg-header-desktop.png);
     }
 }
